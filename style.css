@@ -1,0 +1,80 @@
+  .bookbutton{
+    
+    background-color: #DD5A6A;
+    border-radius: 3.2px;
+    width: 186px;
+    height: 45px;
+    color:#FFFFFF;
+  }
+  .bookbutton1{
+    background-color: #004498;
+    border-radius: 3.81px;
+    width: 221px;
+    height: 54px;
+    color:white;
+
+  }
+
+
+h1 {
+    color: #22B78E;
+    font-family: StagSans;
+    font-size: 31px;
+    letter-spacing: 1.28px;
+    line-height: 44px;
+    text-align: left;
+  }
+  .para{
+    color: #000000;
+    font-family: StagSans;
+    font-size: 15px;
+    line-height: 21px;
+    width: 609px;
+    text-align: left;
+  }
+  .img2{
+    width: 150px;
+    height:52px;
+    margin-top: 10px;
+    margin-left: 186px;
+    border-radius: 5px;
+  }
+  .para3{
+    color: #000000;
+    font-family: StagSans;
+    font-size: 15px;
+    font-style: italic;
+    line-height: 21px;
+    width: 300px;
+    margin-top:15px;
+    text-align: left;
+  }
+
+  .rectangle {
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 9px 8px 27px 0 rgba(0, 0, 0, 0.04);
+    width: 350px;
+    height: 249px;
+    
+  }
+  img {
+    width: 150px;
+    height: 92px;
+    cursor: pointer;
+  }
+  .apiness{
+
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+  .john-doe{
+    color: #000000;
+    font-family: StagSans;
+    font-size: 22px;
+    line-height: 26px;
+    position: absolute;
+    left: 290px;
+    top: 30px;
+  }
